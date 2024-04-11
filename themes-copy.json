@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "id": 5,
+      "name": "Tema 01",
+      "colors": {
+        "primary": "#c79833",
+        "secondary": "#755c00",
+        "success": "#000000",
+        "danger": "#000000",
+        "warning": "#000000"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Tema 02",
+      "colors": {
+        "primary": "#8bcb15",
+        "secondary": "#1d6818",
+        "success": "#000000",
+        "danger": "#000000",
+        "warning": "#000000"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Tema 03",
+      "colors": {
+        "primary": "#cc0000",
+        "secondary": "#5f2121",
+        "success": "#000000",
+        "danger": "#000000",
+        "warning": "#000000"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Tema 04",
+      "colors": {
+        "primary": "#4400ff",
+        "secondary": "#0b357a",
+        "success": "#000000",
+        "danger": "#000000",
+        "warning": "#000000"
+      }
+    }
+  ]
+}
